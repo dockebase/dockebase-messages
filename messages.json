@@ -2,14 +2,14 @@
   "version": 1,
   "messages": [
     {
-      "id": "2026-03-test-warning",
-      "severity": "warning",
-      "title": "Scheduled maintenance",
-      "body": "The shared GitHub authentication service will undergo maintenance on April 5, 2026. Deploy functionality may be temporarily unavailable.",
-      "action_url": "/settings/github",
-      "action_label": "Set Up Own GitHub App",
+      "id": "2026-03-test-critical",
+      "severity": "critical",
+      "title": "Security vulnerability detected",
+      "body": "A critical security issue has been found in Dockebase versions prior to 1.0.1. Please update immediately.",
+      "action_url": "https://github.com/dockebase/dockebase-alpha/releases",
+      "action_label": "View Release Notes",
       "created_at": "2026-03-29",
-      "expires_at": "2026-04-06"
+      "expires_at": "2026-04-15"
     }
   ]
 }
