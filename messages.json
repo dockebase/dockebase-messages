@@ -2,12 +2,14 @@
   "version": 1,
   "messages": [
     {
-      "id": "2026-03-test",
-      "severity": "info",
-      "title": "Welcome to Dockebase",
-      "body": "This is a test message from the Dockebase message system. If you can see this, the system is working correctly.",
+      "id": "2026-03-test-warning",
+      "severity": "warning",
+      "title": "Scheduled maintenance",
+      "body": "The shared GitHub authentication service will undergo maintenance on April 5, 2026. Deploy functionality may be temporarily unavailable.",
+      "action_url": "/settings/github",
+      "action_label": "Set Up Own GitHub App",
       "created_at": "2026-03-29",
-      "expires_at": "2026-04-15"
+      "expires_at": "2026-04-06"
     }
   ]
 }
