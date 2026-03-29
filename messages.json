@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": "2026-03-test",
+      "severity": "info",
+      "title": "Welcome to Dockebase",
+      "body": "This is a test message from the Dockebase message system. If you can see this, the system is working correctly.",
+      "created_at": "2026-03-29",
+      "expires_at": "2026-04-15"
+    }
+  ]
+}
