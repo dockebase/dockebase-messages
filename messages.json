@@ -2,14 +2,12 @@
   "version": 1,
   "messages": [
     {
-      "id": "2026-03-test-critical",
-      "severity": "critical",
-      "title": "Security vulnerability detected",
-      "body": "A critical security issue has been found in Dockebase versions prior to 1.0.1. Please update immediately.",
-      "action_url": "https://github.com/dockebase/dockebase-alpha/releases",
-      "action_label": "View Release Notes",
+      "id": "2026-03-v1-release",
+      "severity": "info",
+      "title": "Dockebase v1.0.0 is coming soon",
+      "body": "We are preparing for the first public release. Thank you for testing the alpha version!",
       "created_at": "2026-03-29",
-      "expires_at": "2026-04-15"
+      "expires_at": "2026-05-01"
     }
   ]
 }
